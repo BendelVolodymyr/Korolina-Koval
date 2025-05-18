@@ -1,0 +1,30 @@
+.navbar {
+  background-color: #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.link {
+  color: #555;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  transition: all 0.2s ease-in-out;
+
+  &:hover {
+    background-color: #e5f0ff;
+    color: #1e40af;
+  }
+}
+
+.active {
+  background-color: #3b82f6;
+  color: white;
+}

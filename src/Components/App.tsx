@@ -16,10 +16,10 @@ const App = () => {
           fallback={<div className="p-4 text-gray-500">Завантаження...</div>}
         >
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/projects" element={<Projects />} />
-            <Route path="/drawings" element={<Drawings />} />
-            <Route path="/homeworks" element={<Homeworks />} />
+            <Route path="/Karolina-Koval/" element={<Home />} />
+            <Route path="/Karolina-Koval/projects" element={<Projects />} />
+            <Route path="/Karolina-Koval/drawings" element={<Drawings />} />
+            <Route path="/Karolina-Koval/homeworks" element={<Homeworks />} />
           </Routes>
         </Suspense>
       </div>

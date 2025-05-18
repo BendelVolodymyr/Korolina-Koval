@@ -1,5 +1,5 @@
 {
-  "name": "korolina-koval",
+  "name": "karolina-koval",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BendelVolodymyr/Korolina-Koval.git"
+    "url": "git+https://github.com/BendelVolodymyr/Karolina-Koval.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BendelVolodymyr/Korolina-Koval/issues"
+    "url": "https://github.com/BendelVolodymyr/Karolina-Koval/issues"
   },
-  "homepage": "https://github.com/BendelVolodymyr/Korolina-Koval#readme",
+  "homepage": "https://github.com/BendelVolodymyr/Karolina-Koval#readme",
   "devDependencies": {
     "@types/css-modules": "^1.0.5",
     "@types/react": "^19.1.4",

@@ -16,7 +16,7 @@ const App = () => {
           fallback={<div className="p-4 text-gray-500">Завантаження...</div>}
         >
           <Routes>
-            <Route index element={<Home />} />
+            <Route path="/" element={<Home />} />
             <Route path="/Karolina-Koval/home" element={<Home />} />
             <Route path="/Karolina-Koval/projects" element={<Projects />} />
             <Route path="/Karolina-Koval/drawings" element={<Drawings />} />
